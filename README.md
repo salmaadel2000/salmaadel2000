@@ -1,7 +1,7 @@
 
 
 
-# Hi, I'm Salma Adel
+# Hi, I'm <span style="color:pink"> Salma Adel </span>
 
 Front-End Developer
 
